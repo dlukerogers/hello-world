@@ -1,2 +1,4 @@
 # hello-world
-My first website from scratch for Code Fellows
+
+* We got rid of the description to demonstrate git process
+* Demoing A-C-P process
